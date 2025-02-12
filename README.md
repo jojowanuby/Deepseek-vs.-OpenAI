@@ -9,3 +9,6 @@ https://github.com/jojowanuby/Deepseek-vs.-OpenAI/blob/main/DeepSeek%20Answer.ps
 
 **Answer OpenAI**
 https://github.com/jojowanuby/Deepseek-vs.-OpenAI/blob/main/OpenAI%20Answer.ps1
+
+**Answer Le Chat**
+https://github.com/jojowanuby/Deepseek-vs.-OpenAI-vs.LeChat/blob/main/LeChatt%20Answer.ps1
